@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #19F8FF;
+	background: #ffffff;
 }
 
 #header
 {
-	background: #ccc;
+	background: #FFAAF6;
 	padding: 20px;
 }
 
@@ -16,7 +16,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #B100FF;
 	
 	
 }
@@ -88,6 +88,7 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	background-color: #0074B2;
 }
 
 #footer
