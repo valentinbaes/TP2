@@ -1,7 +1,7 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #19F8FF;
 }
 
 #header
@@ -17,6 +17,8 @@
 	float: left;
 	width: 100%;
 	background: #333;
+	
+	
 }
 
 #navigation ul
@@ -58,11 +60,14 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	background-color: #ff6e55;
 }
 
 #edito h2
-{
-	color: #000;
+{   transform-origin: top 0 left 0;
+	color: #B24500;
+	font-family: Alpha Geometrique;
+	
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
