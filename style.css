@@ -66,10 +66,10 @@
 #edito h2
 {   transform-origin: top 0 left 0;
 	color: #B24500;
-	font-family: Alpha Geometrique;
-	
+	font-family: Courier New;
 	font-size: 160%;
 	margin: 0 0 .5em;
+	background-color: FFD4BA;
 }
 
 #news
