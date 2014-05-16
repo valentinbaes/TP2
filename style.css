@@ -1,12 +1,13 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #EFFCFF;
 }
 
 #header
 {
-	background: #ccc;
+	background: #00F6FF;
+	color:#B2FFF8;
 	padding: 20px;
 }
 
@@ -54,7 +55,8 @@
 	box-shadow: 0px 0px 6px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	background-image: linear-gradient(left, #d6e1ff, #BEF7FA);
+	background: #BEF6FF;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
@@ -79,7 +81,8 @@
 	box-shadow: 0px 0px 6px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	background-image: linear-gradient(left, #d6e1ff, #B3FCFF);
+	background: linear-gradient(#BEF6FF, #BEF7FA);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
@@ -89,7 +92,8 @@
 {
 	clear: both;
 	background: #ccc;
-	text-align: right;
+	text-align: center;
 	padding: 20px;
 	height: 1%;
+	color: #A69E9E;
 }
