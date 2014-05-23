@@ -1,25 +1,17 @@
 #container
 {
 	margin: 0 30px;
-<<<<<<< HEAD
-	background: #ffffff;
-=======
 	background: #fff;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
 	background-color:#696969;
->>>>>>> 5808b35f1a074357f91e3a74c39cee93a1cd6a93
 }
 
 #header
 {
-<<<<<<< HEAD
-	background: #FFAAF6;
-=======
 	background: #134152;
 	color: white;
->>>>>>> 5808b35f1a074357f91e3a74c39cee93a1cd6a93
 	padding: 20px;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -32,9 +24,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #B100FF;
-	
-	
+	background: #333;
 }
 
 #navigation ul
@@ -76,25 +66,14 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
-<<<<<<< HEAD
-	background-color: #ff6e55;
-}
-
-#edito h2
-{   transform-origin: top 0 left 0;
-	color: #B24500;
-	font-family: Courier New;
-=======
 	color:white;
 	background-color:#0B252E;
 }
 
 #edito h2
 {
->>>>>>> 5808b35f1a074357f91e3a74c39cee93a1cd6a93
 	font-size: 160%;
 	margin: 0 0 .5em;
-	background-color: FFD4BA;
 }
 
 #news
@@ -113,9 +92,6 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
-<<<<<<< HEAD
-	background-color: #0074B2;
-=======
 	color:white;
 	background-color:#0B252E;
 	
@@ -127,7 +103,6 @@ color:#8D8D8D;
 
 #edito h2{
 color:#8D8D8D;
->>>>>>> 5808b35f1a074357f91e3a74c39cee93a1cd6a93
 }
 
 #footer
